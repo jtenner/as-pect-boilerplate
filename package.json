@@ -1,0 +1,23 @@
+{
+  "name": "as-pect-boilerplate",
+  "version": "1.0.0",
+  "description": "A module, created by you, the wasm dev.",
+  "main": "index.js",
+  "scripts": {
+    "test": "asp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtenner/as-pect-boilerplate.git"
+  },
+  "author": "You 2020",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtenner/as-pect-boilerplate/issues"
+  },
+  "homepage": "https://github.com/jtenner/as-pect-boilerplate#readme",
+  "devDependencies": {
+    "@as-pect/cli": "^3.1.5",
+    "assemblyscript": "^0.9.4"
+  }
+}
